@@ -1,0 +1,1 @@
+.. include:: ../matkyda.rst
